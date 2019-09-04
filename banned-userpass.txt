@@ -1,2 +1,2 @@
-banned:fuckingnigger69
-testban:nekruperse123
+banned:fuckingnigger69;
+testban:nekruperse123;
